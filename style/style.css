@@ -1,0 +1,54 @@
+body {
+    font-family: 'Abril Fatface', cursive;
+    font-family: 'Alumni Sans Collegiate One', sans-serif;
+    font-family: 'Anek Telugu', sans-serif;
+    font-family: 'Antonio', sans-serif;
+    font-family: 'Black Ops One', cursive;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Rubik', sans-serif;
+    font-family: 'Rubik Dirt', cursive;
+    font-family: 'Secular One', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+/*HEADER STYLE*/
+.primary-btn {
+    height: 50px;
+    width: 120px;
+    background-color: #E55473;
+    font-weight: 900;
+    border: 0;
+    color: #FFFFFF;
+    border-radius: 7px;
+}
+
+.header-description {
+    height: 506px;
+    width: 708px;
+    margin: 260px 0 0 80px;
+
+
+}
+
+.header-img {
+    width: 600px;
+    height: 700px;
+}
+
+.header-img {
+    margin-top: 70px;
+    margin-right: 80px;
+
+}
+
+header {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    background-color: #F1D1D7;
+
+
+}
