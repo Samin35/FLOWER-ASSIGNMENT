@@ -212,3 +212,25 @@ header {
     border-radius: 10px;
     margin-right: 3px;
 }
+
+/*FOOTER STYLE*/
+.pink {
+    color: #E55473;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 100px;
+    background-color: black;
+}
+
+.footer-align {
+    text-align: center;
+    color: white;
+}
+
+* {
+    margin: 0;
+}
