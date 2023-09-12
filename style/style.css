@@ -234,3 +234,9 @@ footer {
 * {
     margin: 0;
 }
+
+h1,
+p,
+h5 {
+    margin-bottom: 20px;
+}
